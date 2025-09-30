@@ -9,24 +9,24 @@ This notebook demonstrates reproducible data handling, cleaning, transformation,
 
 ## Quick‑start
 
-# Python 3.11 or 3.12
+ Python 3.11 or 3.12
 
-# 0) Open new terminal
+ 0) Open new terminal
 
-# 1) Virtual environment
+ 1) Virtual environment
   python -m venv venv
 
-# Activate virtual environment
-# Windows
-venv\Scripts\activate
-# macOS/Linux
-source venv/bin/activate
+ - Activate virtual environment
+ > Windows
+ - venv\Scripts\activate
+ > macOS/Linux
+ - source venv/bin/activate
 
-# 2) Install packages
-pip install -r requirements.txt
+ 2) Install packages
+ - pip install -r requirements.txt
 
-# 3) Launch the notebook
-Run All
+ 3) Launch the notebook
+ - Run All
 
 ## Repository layout (example)
 
